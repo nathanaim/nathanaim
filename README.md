@@ -1,3 +1,3 @@
-Ecole Polytechnique & HEC Paris
+# Education
 
-Interested in Data Science
+I studied mathematics, geopolitics and am now a Master student at Ecole Polytechnique and HEC Paris.
